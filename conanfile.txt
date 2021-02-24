@@ -1,0 +1,8 @@
+[build_requires]
+
+[requires]
+spdlog/1.4.2@bincrafters/stable
+asio/1.18.0
+
+[generators]
+cmake
